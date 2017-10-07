@@ -1,16 +1,18 @@
 body {
   padding: 50px;
+  color: whitesmoke;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-  background-color: lightsteelblue;
-  background-image: url('/images/coins.jpg');
+  background-color: black;
+
+  background-image: url('/images/money.jpg');
   background-repeat: no-repeat;
   background-size: cover;        /* fill the page */
   background-attachment: fixed;  /* don't scroll */
+
 }
 
 a {
-  color: darkblue;
+  color: lightblue;
 }
-
 
 
