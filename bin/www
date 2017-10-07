@@ -88,3 +88,20 @@ function onListening() {
     : 'port ' + addr.port;
   debug('Listening on ' + bind);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* this code was made by express generator, plus some by clara, and some images from unsplash. */
