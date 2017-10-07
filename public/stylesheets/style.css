@@ -1,0 +1,16 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: lightsteelblue;
+  background-image: url('/images/coins.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;        /* fill the page */
+  background-attachment: fixed;  /* don't scroll */
+}
+
+a {
+  color: darkblue;
+}
+
+
+
