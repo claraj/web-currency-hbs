@@ -7,3 +7,4 @@ First web application with express.
 * Image and CSS resources
 * Simple data store
 * NPM, modules and package.json
+
